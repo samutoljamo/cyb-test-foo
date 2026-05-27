@@ -1,0 +1,1 @@
+{"timestamp":"2026-05-27T07:18:45.239Z","kind":"resource_rename","target":"base/fieldTypes/status","payload":{"type":"fieldTypes","newName":"state"}}

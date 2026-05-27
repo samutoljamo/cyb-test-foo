@@ -4,7 +4,7 @@
     "workflow": "base/workflows/simple",
     "customFields": [
         {
-            "name": "base/fieldTypes/status"
+            "name": "base/fieldTypes/state"
         }
     ],
     "alwaysVisibleFields": [],

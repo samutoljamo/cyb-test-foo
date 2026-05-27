@@ -4,11 +4,11 @@
     "workflow": "foo/workflows/flow",
     "customFields": [
         {
-            "name": "foo/fieldTypes/priority",
-            "isCalculated": false
+            "name": "foo/fieldTypes/urgency"
         },
         {
-            "name": "base/fieldTypes/status"
+            "name": "base/fieldTypes/state",
+            "isCalculated": false
         }
     ],
     "alwaysVisibleFields": [],

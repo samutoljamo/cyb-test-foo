@@ -1,0 +1,2 @@
+{"timestamp":"2026-05-27T07:18:55.531Z","kind":"resource_rename","target":"base/fieldTypes/status","payload":{"type":"fieldTypes","newName":"state"}}
+{"timestamp":"2026-05-27T07:18:56.415Z","kind":"resource_rename","target":"foo/fieldTypes/priority","payload":{"type":"fieldTypes","newName":"urgency"}}
