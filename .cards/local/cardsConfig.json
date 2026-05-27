@@ -3,6 +3,7 @@
     "cardKeyPrefix": "foo",
     "name": "Foo",
     "description": "",
+    "version": "1.0.0",
     "modules": [
         {
             "name": "base",
