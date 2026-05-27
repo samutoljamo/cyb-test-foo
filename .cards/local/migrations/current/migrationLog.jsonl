@@ -1,0 +1,2 @@
+{"timestamp":"2026-05-27T07:18:33.658Z","kind":"resource_edit","target":"foo/cardTypes/task","payload":{"operation":{"name":"add","target":{"name":"foo/fieldTypes/priority"},"to":"","newIndex":0},"key":"customFields"}}
+{"timestamp":"2026-05-27T07:18:34.521Z","kind":"resource_edit","target":"foo/cardTypes/task","payload":{"operation":{"name":"add","target":{"name":"base/fieldTypes/status"},"to":"","newIndex":0},"key":"customFields"}}

@@ -1,0 +1,16 @@
+{
+    "name": "foo/cardTypes/task",
+    "displayName": "",
+    "workflow": "foo/workflows/flow",
+    "customFields": [
+        {
+            "name": "foo/fieldTypes/priority",
+            "isCalculated": false
+        },
+        {
+            "name": "base/fieldTypes/status"
+        }
+    ],
+    "alwaysVisibleFields": [],
+    "optionallyVisibleFields": []
+}

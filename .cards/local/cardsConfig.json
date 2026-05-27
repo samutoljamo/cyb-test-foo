@@ -3,6 +3,13 @@
     "cardKeyPrefix": "foo",
     "name": "Foo",
     "description": "",
-    "modules": [],
+    "modules": [
+        {
+            "name": "base",
+            "location": "https://github.com/samutoljamo/cyb-test-base.git",
+            "private": false,
+            "version": "^1.0.0"
+        }
+    ],
     "hubs": []
 }
